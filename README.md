@@ -1,6 +1,6 @@
 # cji
 
-##Community Justice Investigations
+## Community Justice Investigations
 
 I built this site on behalf of Community Justice Investigations, a 501(c)(3) nonprofit, operating in the Twin Cities Metro Area of Minnesota.
 
