@@ -1,4 +1,4 @@
-# cji
+# CJI
 
 ## Community Justice Investigations
 
